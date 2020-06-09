@@ -1,0 +1,12 @@
+[submodule "JavaScript-oblig-1"]
+	path = JavaScript-oblig-1
+	url = https://github.com/Tobhal/JavaScript-oblig-1
+[submodule "JavaScript-oblig-2"]
+	path = JavaScript-oblig-2
+	url = https://github.com/Tobhal/JavaScript-oblig-2
+[submodule "JavaScript-oblig-3"]
+	path = JavaScript-oblig-3
+	url = https://github.com/Tobhal/JavaScript-oblig-3
+[submodule "JavaScript-oblig-4"]
+	path = JavaScript-oblig-4
+	url = https://github.com/Tobhal/JavaScript-oblig-4
